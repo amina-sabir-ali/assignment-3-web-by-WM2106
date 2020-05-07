@@ -1,0 +1,134 @@
+*{
+    margin:0px;
+    padding: 0px;
+    list-style-type: none;
+}
+/*  top header section */
+.header-top{
+    background-color: #316dc3;
+    /* padding:0.4rem 0rem; */
+    padding-top: 5px;
+    color:white;
+    font-size:14px;
+    text-align: center;
+}
+.header-top p{
+    font-size: 16px;
+    padding-top: 5px;
+}
+.header-top ul li{
+    display: inline;
+}
+.top-header-btn{
+    padding: 1px 3px;
+    margin-top: 5px;
+}
+
+.header-icon{
+    font-size: 20px;
+    color: white;
+    margin: 5px;
+}
+/* top header section ends */
+.nav-here{
+    background-color: #f7f8fa;
+}
+.header-menu-section .nav-link{
+    color: black;
+    font-size: 16px;
+    padding: 3px 15px;
+    border-radius:20px;
+
+}
+.header-menu-section .nav-link:hover{
+    background-color: #316dc3;
+    color: white;
+}
+.header-menu-section{
+    margin-left: 15rem;
+}
+.header-menu-section .home-selected{
+    background-color: #316dc3;
+    color: white;
+}
+
+
+/* introduction section */
+
+.intro-paragraph{
+    text-align: justify;
+}
+/* introduction section ends */
+ 
+/* info section start */
+.info-section{
+    background-color:#316dc3;
+}
+.info-img{
+    width: 3rem;
+}
+.info-section-part{
+    text-align: center;
+    color: white;
+    padding: 2rem;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+/* info section ends */
+
+/* what we are doing starts */
+.doing-work{
+    margin: 3rem 5rem;
+    color: #316dc3;
+    font-family: 'Times New Roman', Times, serif;
+}
+.box{
+    width:23rem;
+    height: 11rem;
+    padding-top: 1rem;
+    text-align: center;
+    -webkit-box-shadow: -2px 9px 40px 0px rgba(132,132,224,0.6);
+    -moz-box-shadow: -2px 9px 40px 0px rgba(132,132,224,0.6);
+    box-shadow: -2px 9px 40px 0px rgba(132,132,224,0.6);
+    background-color:white;
+}
+/* what we are doing ends */
+/* ---- Upcoming events and project section starts------- */
+.events{
+    color: rgb(94, 94, 226);
+    font-family: 'Times New Roman', Times, serif;
+}
+.pbox{
+    background-color: #edeff3;
+    font-size: 1rem;
+    font-family: 'Times New Roman', Times, serif;
+    padding:1rem;
+}
+/* ---- Upcoming events and project section starts ends------- */
+.gallery-img{
+    margin-bottom: 1rem;     
+}
+/*  footer starts */
+.footer{
+    background-color: #25272e;
+    text-align: left;
+    padding: 3rem;
+    color: white;
+}
+.footer ul{
+    margin: 0;
+    padding: 0;
+}
+.footer ul li{
+    list-style-type: none;
+    display: inline;
+    font-size: 1.5rem;
+}
+.footer-copright-section{
+    background-color: #316dd9;
+    font-size: 0.8rem;
+    color: white;
+    padding-top: 0.6rem;
+    padding-left: 3rem;
+}
+/* footer ends */
